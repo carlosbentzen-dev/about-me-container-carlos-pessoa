@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+.dockerignore
+.DS_Store
+.history
+Dockerfile
+README.md
+docs
